@@ -2,20 +2,20 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-06T13:17:13Z" name="Suite" finished-at="2022-04-06T13:17:36Z" duration-ms="23789">
+  <suite started-at="2022-04-07T10:53:52Z" name="Suite" finished-at="2022-04-07T10:54:10Z" duration-ms="18061">
     <groups>
     </groups>
-    <test started-at="2022-04-06T13:17:13Z" name="Test" finished-at="2022-04-06T13:17:36Z" duration-ms="23789">
+    <test started-at="2022-04-07T10:53:52Z" name="Test" finished-at="2022-04-07T10:54:10Z" duration-ms="18061">
       <class name="webDriverDay6.jsexecutor.AWikiWD">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:webDriverDay6.jsexecutor.AWikiWD@307f6b8c]" started-at="2022-04-06T14:17:13Z" name="setUp" finished-at="2022-04-06T14:17:20Z" duration-ms="7281" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webDriverDay6.jsexecutor.AWikiWD@307f6b8c]" started-at="2022-04-07T11:53:52Z" name="setUp" finished-at="2022-04-07T11:53:54Z" duration-ms="2113" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testTCWikiKetantest()[pri:0, instance:webDriverDay6.jsexecutor.AWikiWD@307f6b8c]" started-at="2022-04-06T14:17:20Z" name="testTCWikiKetantest" finished-at="2022-04-06T14:17:36Z" duration-ms="16409" status="PASS">
+        <test-method signature="testTCWikiKetantest()[pri:0, instance:webDriverDay6.jsexecutor.AWikiWD@307f6b8c]" started-at="2022-04-07T11:53:54Z" name="testTCWikiKetantest" finished-at="2022-04-07T11:54:10Z" duration-ms="15798" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTCWikiKetantest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:webDriverDay6.jsexecutor.AWikiWD@307f6b8c]" started-at="2022-04-06T14:17:36Z" name="tearDown" finished-at="2022-04-06T14:17:36Z" duration-ms="89" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:webDriverDay6.jsexecutor.AWikiWD@307f6b8c]" started-at="2022-04-07T11:54:10Z" name="tearDown" finished-at="2022-04-07T11:54:10Z" duration-ms="143" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
